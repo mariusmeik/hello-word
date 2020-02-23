@@ -1,0 +1,33 @@
+
+pradiniai duomenys (pirmo fak.)
+Informatikos fakultetas 9 4
+|Jasas               |Mariūnas            |IFF9/5               |1 |1 |2 |3
+|Vytas               |Vytukas             |IFF9/1               |1 |21
+|Algis               |Cekolis             |IFF9/8               |4 |2 |1
+|Kugelio             |Šmotas              |IFF9/6               |3 |2 |1 |1 |1 |1 |1 |23 |3 |4
+|Vytas               |Vytukas             |IFF9/6               |1 |2
+|Vytassss            |Vytukassss          |IFF9/1               |2
+
+pradiniai duomenys (antro fak.)
+Ne informatikos fakultetas 9 6
+|Jasass              |Mariūnas            |IFF9/5               |1
+|Vytaslollolol       |Vytukas             |IFF9/1               |1 |2
+|Algimantas          |Cekolikas           |IFF9/8               |4
+|Kugelio             |Šmotas              |IFF9/6               |3 |2 |1 |1 |1 |3 |4
+|Vytas               |Vytukas             |IFF9/6               |1 |2
+|Vincas              |Vytukassss          |IFF9/1               |2
+
+atrinkti ir surusiuoti (pirmo fak.)
+Informatikos fakultetas 9 4
+|Vytas               |Vytukas             |IFF9/6               |1 |2
+|Vytassss            |Vytukassss          |IFF9/1               |2
+
+atrinkti ir surusiuoti (antro fak.)
+Ne informatikos fakultetas 9 6
+|Algimantas          |Cekolikas           |IFF9/8               |4
+|Vytas               |Vytukas             |IFF9/6               |1 |2
+|Jasass              |Mariūnas            |IFF9/5               |1
+|Vytaslollolol       |Vytukas             |IFF9/1               |1 |2
+|Vincas              |Vytukassss          |IFF9/1               |2
+
+antrame fakultete virsijanciu daugiau

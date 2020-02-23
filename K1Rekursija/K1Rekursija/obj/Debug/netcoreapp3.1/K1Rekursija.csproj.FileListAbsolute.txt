@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\K1Rekursija.exe
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\data.txt
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\K1Rekursija.deps.json
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\K1Rekursija.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\K1Rekursija.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\K1Rekursija.dll
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\K1Rekursija.pdb
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\obj\Debug\netcoreapp3.1\K1Rekursija.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\obj\Debug\netcoreapp3.1\K1Rekursija.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\obj\Debug\netcoreapp3.1\K1Rekursija.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\obj\Debug\netcoreapp3.1\K1Rekursija.dll
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\obj\Debug\netcoreapp3.1\K1Rekursija.pdb
+C:\Users\Vartotojas\Desktop\Antras semestras\K1Rekursija\K1Rekursija\bin\Debug\netcoreapp3.1\data1.txt
